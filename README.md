@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrutikTrivedi
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Devloper
 - 📫 How to reach me krutiktrivedi83@gmail.com
 
 <!---
